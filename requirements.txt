@@ -1,0 +1,8 @@
+# 執行需要
+yt-dlp[default]>=2026.8.19
+mutagen>=1.47
+customtkinter>=5.2
+tkinterdnd2>=0.4      # 診斷模式的拖曳功能（沒有也能用，會改成「選擇檔案」）
+
+# 測試
+pytest>=8
